@@ -17,7 +17,7 @@ O objetivo foi tentar criar um gerador de senhar que fosse seguro e que seja dif
     <strong>O que foi usado no desenvolvimento do projeto</strong>
   </summary><br>
 
-As tecnologias usadas foram: `DOM do JavaScript`, `HTML`, `CSS`, `clickboard-copy` (é uma biblioteca de fazer cópias) e a biblioteca, que podemos dizer, ser o personagem principal deste projeto `nanoid`. 
+As tecnologias usadas foram: `DOM do JavaScript`, `HTML`, `CSS`, `clipboard-copy` (é uma biblioteca de fazer cópias) e a biblioteca, que podemos dizer, ser o personagem principal deste projeto `nanoid`. 
 </details><br>
 
 # Nano Id
