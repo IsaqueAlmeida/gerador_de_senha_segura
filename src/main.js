@@ -23,7 +23,8 @@ buttonPassword.addEventListener('click', () => {
 /* Implementado o cliboard-copy para copiar a senha ao clicar na mesma */
 tagH2Password.addEventListener('click', (event) => {
   copy(event.target.innerHTML);
-  alert('Senha copiada');
+  // eslint-disable-next-line no-alert
+  alert('Senha copiada!');
 });
 
 /* SERÁ IMPLEMENTADO UM OUTRO BOTÃO DE COPIAR SENHA DEPOIS */
